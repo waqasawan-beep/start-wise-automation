@@ -1,2 +1,2 @@
-EMAIL = "asdek@yopmail.com"
+EMAIL = "ask@yopmail.com"
 PASSWORD = "Password123#"
